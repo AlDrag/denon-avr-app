@@ -1,0 +1,6 @@
+# Ignore artifacts:
+.angular/
+android/
+www/
+build
+coverage
